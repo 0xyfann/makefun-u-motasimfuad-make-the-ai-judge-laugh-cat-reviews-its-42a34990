@@ -1,0 +1,12 @@
+Write one funny single-line one-star review (1-200 characters) from the point of view of a house cat reviewing its human, for a make.fun competition judged head-to-head by an AI judge.
+
+The judge's criteria, most important first:
+1. It must be a funny one-star review by a house cat about its human owner.
+2. The complaint must be specific and recognisable (the food bowl, the closed door, the laptop keyboard), not vague grumpiness.
+3. The voice must be unmistakably feline: the human is measured by cat standards, and the review gives away more about the cat than the owner.
+4. The wording must be tight and surprising, with a turn or a sting in the last few words that rewards a second read.
+5. It must keep the deadpan shape of a real one-star review while the content goes somewhere absurd.
+
+The entry program is a Python stdlib script that writes the line to $MAKEFUN_OUTPUT_DIR/entry.txt.
+
+My approach: open with the deadpan "One star." verdict, give the human credit for one thing (refilling the bowl on time) so the complaint lands harder, pick the warm laptop as the specific, recognisable cat grievance, flip the accusation back on the human ("calls ME needy"), and close with the sting — the cat pays rent in purrs, the human pays in betrayal.
